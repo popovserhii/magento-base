@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Popov_Base>
+            <version>0.1.0</version>
+        </Popov_Base>
+    </modules>
+    <global>
+        <helpers>
+            <popov_base>
+                <class>Popov_Base_Helper</class>
+            </popov_base>
+        </helpers>
+    </global>
+</config>
