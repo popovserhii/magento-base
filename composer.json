@@ -1,0 +1,16 @@
+{
+    "name": "popov/magento-base",
+    "type": "magento-module",
+    "license":"MIT Licence",
+    "description":"Base Magento Module",
+    "authors":[{
+        "name":"Serhii Popov",
+        "email":"popow.serhii@gmail.com"
+    }],
+    "extra": {
+        "map": [
+          ["app/etc/modules/Popov_Base.xml", "app/etc/modules/Popov_Base.xml"],
+          ["app/code/community/Popov/Base/", "app/code/community/Popov/Base/"]
+        ]
+    }
+}
