@@ -2,9 +2,9 @@
 /**
  * Improve core magento string class
  *
- * @category Agere
+ * @category Popov
  * @package Popov_Base
- * @author Popov Sergiy <popov@agere.com.ua>
+ * @author Popov Sergiy <popov.serhii@gmail.com>
  * @datetime: 21.04.14 16:38
  */
 class Popov_Base_Helper_String {

@@ -2,9 +2,9 @@
 /**
  * Base url helper
  *
- * @category Agere
+ * @category Popov
  * @package Popov_Base
- * @author Popov Sergiy <popov@agere.com.ua>
+ * @author Popov Sergiy <popov.serhii@gmail.com>
  * @datetime: 10.06.14 18:09
  */
 

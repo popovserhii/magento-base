@@ -1,6 +1,6 @@
 <?php
 /**
- * @category    Agere
+ * @category    Popov
  * @package     Popov_Base
  * @copyright   Copyright (c) http://agere.com.ua
  * @license     http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)

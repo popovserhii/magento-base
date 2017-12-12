@@ -1,15 +1,32 @@
 <?xml version="1.0"?>
 <config>
-    <modules>
-        <Popov_Base>
-            <version>0.1.0</version>
-        </Popov_Base>
-    </modules>
-    <global>
-        <helpers>
-            <popov_base>
-                <class>Popov_Base_Helper</class>
-            </popov_base>
-        </helpers>
-    </global>
+	<modules>
+		<Popov_Base>
+			<version>0.1.0</version>
+		</Popov_Base>
+	</modules>
+	<global>
+
+		<helpers>
+			<popov_base>
+				<class>Popov_Base_Helper</class>
+			</popov_base>
+		</helpers>
+
+		<models>
+			<popov_base>
+				<class>Popov_Seo_Model</class>
+				<!--<resourceModel>popov_base_resource</resourceModel>-->
+			</popov_base>
+			<!--<popov_base_resource>
+				<class>Popov_Base_Model_Resource</class>
+				<entities>
+					<tableEntity>
+						<table>popov_base_table</table>
+					</tableEntity>
+				</entities>
+			</popov_base_resource>-->
+		</models>
+
+	</global>
 </config>
