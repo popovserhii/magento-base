@@ -7,7 +7,8 @@
  * @author Popov Sergiy <popov.serhii@gmail.com>
  * @datetime: 26.06.14 12:18
  */
-class Popov_Base_Helper_Data {
+class Popov_Base_Helper_Data extends Mage_Core_Helper_Abstract
+{
 
 	public function getSortedXmlChildren($parent, $child, $select = '', $filter = array(), $defaultSortOrder = 0) {
 		$sortedResult = array();

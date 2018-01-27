@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<tabs><!-- this must be in every system.xml -->
+		<popov module="popov_base" translate="label"><!-- general tab name -->
+			<label>Popov Modules</label><!-- general tab label in left panel -->
+			<sort_order>10000</sort_order>
+		</popov>
+	</tabs>
+</config>
